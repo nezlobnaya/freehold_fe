@@ -10,8 +10,8 @@ You can find the deployed project at [https://www.freehold.dev](https://www.free
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------:| :-----------------------------------------------------------------------------------------------
 [<img src="https://avatars1.githubusercontent.com/u/29196449?s=460&v=4" width = "200" />](https://github.com/nickdurbin/) | [<img src="https://avatars1.githubusercontent.com/u/21982111?s=460&v=4" width = "200" />](https://github.com/IanCarreras) | [<img src="https://avatars0.githubusercontent.com/u/51096919?s=460&v=4" width = "200" />](https://github.com/gcolegonzales) | [<img src="https://avatars2.githubusercontent.com/u/47186976?s=460&v=4" width = "200" />](https://github.com/dannyotown) |
 
-|                                                                                                              [Vlad Burlutskiy](https://github.com/nezlobnaya)|                                       [Clif Hodges](https://github.com/clifhodges13)                                       |
-| :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |--------
+|                                             [Vlad Burlutskiy](https://github.com/nezlobnaya)      |                                                        [Clif Hodges](https://github.com/clifhodges13)                                       
+|   :------------------------------------------------------------------------------------: |--------
 [<img src="https://avatars3.githubusercontent.com/u/42080781?s=460&v=4" width = "200" />](https://github.com/nezlobnaya) | [<img src="https://avatars0.githubusercontent.com/u/42706685?s=460&v=4" width = "200" />](https://github.com/clifhodges13) |
 
 <br>
