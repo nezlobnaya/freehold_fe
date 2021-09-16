@@ -9,7 +9,7 @@ exports[`SignUp Form tests... snapshot 1`] = `
     class="LoginForm"
   >
     <div
-      class="form-wrapper"
+      class="form-wrapper login"
     >
       <h2>
         Login
@@ -96,7 +96,7 @@ exports[`SignUp Form tests... snapshot 1`] = `
             Submit
           </button>
           <a
-            href="/iamareallyforgetfulperson"
+            href="/updatepassword"
           >
             Forgot your password?
           </a>
