@@ -1,7 +1,7 @@
 
 # Freehold
 
-You can find the deployed project at [https://www.freehold.dev](https://www.freehold.dev).
+You can find the deployed project at [Vercel](https://freehold-fe-hhp560255-vladburlutskiy.vercel.app/).
 
 ## Contributors
 
