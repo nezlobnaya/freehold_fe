@@ -55,7 +55,7 @@ PropMan is a property management application intended to become a one stop shop 
 - Reach Router
 - React Spring
 
-#### Front end deployed to `Netlify`
+#### Front end deployed to `Vercel`
 
 #### [Back end](https://github.com/Lambda-School-Labs/property-manager-be) built using:
 
